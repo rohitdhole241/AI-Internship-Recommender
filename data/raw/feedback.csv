@@ -1,0 +1,294 @@
+student_id,internship_id,rating,feedback_text,completion_date,would_recommend
+S068,I070,5,Great stipend and learning opportunities,2025-05-25,Yes
+S050,I061,3,Good experience but could improve code reviews,2025-07-10,Yes
+S096,I003,4,Good hands-on projects and team collaboration,2025-07-17,Yes
+S094,I014,5,Excellent mentors and project ownership,2025-07-20,Yes
+S006,I046,5,Best internship for learning cutting-edge tech,2025-05-02,Yes
+S100,I060,5,Fantastic team and meaningful work,2025-05-05,Yes
+S018,I009,5,Fantastic team and meaningful work,2025-10-04,Yes
+S026,I006,5,Great exposure to industry-standard tools,2025-10-03,Yes
+S040,I066,4,Great stipend and learning opportunities,2025-06-14,Yes
+S005,I025,4,Best internship for learning cutting-edge tech,2025-10-01,No
+S043,I035,3,Best internship for learning cutting-edge tech,2025-06-24,Yes
+S096,I057,4,Best internship for learning cutting-edge tech,2025-08-27,Yes
+S089,I064,4,Great stipend and learning opportunities,2025-08-06,Yes
+S094,I055,3,Good experience but could improve code reviews,2025-05-12,Yes
+S070,I038,4,Good hands-on projects and team collaboration,2025-09-23,Yes
+S085,I038,4,Fantastic team and meaningful work,2025-05-12,No
+S055,I022,5,Fantastic team and meaningful work,2025-07-16,Yes
+S008,I010,5,Good experience but could improve code reviews,2025-07-12,Maybe
+S096,I021,3,Amazing work culture and challenging projects,2025-05-11,No
+S057,I005,4,Good hands-on projects and team collaboration,2025-08-14,No
+S047,I047,4,Excellent mentors and project ownership,2025-10-05,Maybe
+S020,I058,4,Best internship for learning cutting-edge tech,2025-06-22,Yes
+S074,I018,5,Best internship for learning cutting-edge tech,2025-07-04,Yes
+S084,I036,4,Good hands-on projects and team collaboration,2025-10-07,No
+S024,I064,5,Good experience but could improve code reviews,2025-05-23,Yes
+S034,I034,5,Fantastic team and meaningful work,2025-08-20,Maybe
+S037,I063,4,Good hands-on projects and team collaboration,2025-09-09,Yes
+S058,I023,5,Fantastic team and meaningful work,2025-09-21,No
+S041,I045,5,Good hands-on projects and team collaboration,2025-05-26,Maybe
+S038,I039,5,Amazing work culture and challenging projects,2025-04-17,No
+S023,I047,5,Great exposure to industry-standard tools,2025-09-12,Yes
+S018,I031,5,Fantastic team and meaningful work,2025-10-07,Yes
+S071,I074,4,Fantastic team and meaningful work,2025-05-25,Yes
+S079,I012,3,Solid internship with real-world impact,2025-07-04,No
+S093,I062,5,Good experience but could improve code reviews,2025-07-01,Maybe
+S010,I017,4,Good hands-on projects and team collaboration,2025-06-20,Yes
+S088,I067,4,Amazing work culture and challenging projects,2025-05-25,No
+S076,I024,5,Amazing work culture and challenging projects,2025-06-25,Maybe
+S008,I016,5,Amazing work culture and challenging projects,2025-07-28,Yes
+S021,I042,5,Great exposure to industry-standard tools,2025-07-17,Maybe
+S037,I011,4,Great exposure to industry-standard tools,2025-05-04,Maybe
+S036,I017,5,Solid internship with real-world impact,2025-05-09,Maybe
+S012,I065,5,Amazing work culture and challenging projects,2025-05-15,Maybe
+S020,I022,5,Excellent mentors and project ownership,2025-05-12,Yes
+S073,I006,5,Excellent learning experience with great mentorship,2025-09-23,Yes
+S083,I074,4,Great exposure to industry-standard tools,2025-05-20,Yes
+S080,I004,4,Great stipend and learning opportunities,2025-07-31,No
+S039,I062,4,Good experience but could improve code reviews,2025-07-29,Yes
+S010,I008,4,Fantastic team and meaningful work,2025-06-29,Yes
+S060,I027,4,Excellent mentors and project ownership,2025-09-07,Yes
+S092,I041,5,Best internship for learning cutting-edge tech,2025-07-03,Yes
+S098,I048,5,Great stipend and learning opportunities,2025-09-16,Yes
+S031,I060,3,Solid internship with real-world impact,2025-06-20,Yes
+S019,I013,3,Solid internship with real-world impact,2025-07-07,Maybe
+S054,I032,5,Amazing work culture and challenging projects,2025-07-22,Maybe
+S093,I041,4,Amazing work culture and challenging projects,2025-06-08,Maybe
+S060,I064,4,Fantastic team and meaningful work,2025-10-08,Yes
+S051,I065,4,Great exposure to industry-standard tools,2025-08-19,Maybe
+S046,I007,3,Solid internship with real-world impact,2025-06-09,Maybe
+S084,I061,4,Great stipend and learning opportunities,2025-10-11,Yes
+S056,I018,4,Best internship for learning cutting-edge tech,2025-07-02,Yes
+S006,I052,3,Excellent mentors and project ownership,2025-05-23,Yes
+S047,I071,4,Good hands-on projects and team collaboration,2025-07-07,Maybe
+S058,I071,4,Excellent mentors and project ownership,2025-04-22,Maybe
+S016,I017,3,Good experience but could improve code reviews,2025-07-10,Yes
+S072,I047,5,Amazing work culture and challenging projects,2025-08-24,Maybe
+S066,I052,5,Excellent learning experience with great mentorship,2025-10-02,Yes
+S018,I043,5,Fantastic team and meaningful work,2025-06-03,Yes
+S020,I066,4,Best internship for learning cutting-edge tech,2025-05-10,Yes
+S021,I051,5,Solid internship with real-world impact,2025-05-15,Yes
+S065,I066,5,Fantastic team and meaningful work,2025-05-22,Yes
+S061,I003,4,Best internship for learning cutting-edge tech,2025-04-24,Yes
+S054,I075,4,Excellent learning experience with great mentorship,2025-05-14,Yes
+S034,I075,5,Great exposure to industry-standard tools,2025-09-30,Maybe
+S062,I022,5,Excellent mentors and project ownership,2025-07-08,Yes
+S088,I032,3,Excellent mentors and project ownership,2025-04-17,Yes
+S025,I003,4,Best internship for learning cutting-edge tech,2025-06-28,Yes
+S053,I027,4,Great stipend and learning opportunities,2025-05-10,Yes
+S095,I008,5,Amazing work culture and challenging projects,2025-06-03,Yes
+S072,I042,5,Fantastic team and meaningful work,2025-06-01,Yes
+S041,I023,4,Great stipend and learning opportunities,2025-07-18,Maybe
+S046,I034,5,Fantastic team and meaningful work,2025-08-25,Yes
+S036,I072,4,Great exposure to industry-standard tools,2025-07-29,Yes
+S091,I027,5,Fantastic team and meaningful work,2025-07-24,Yes
+S045,I072,5,Solid internship with real-world impact,2025-08-01,Yes
+S074,I070,4,Good experience but could improve code reviews,2025-07-17,Yes
+S038,I006,4,Good hands-on projects and team collaboration,2025-07-17,Yes
+S084,I033,5,Fantastic team and meaningful work,2025-08-20,Yes
+S069,I035,5,Solid internship with real-world impact,2025-09-08,Yes
+S079,I031,4,Excellent learning experience with great mentorship,2025-04-25,Maybe
+S029,I030,3,Good hands-on projects and team collaboration,2025-06-30,Yes
+S092,I061,3,Amazing work culture and challenging projects,2025-10-12,Maybe
+S021,I053,5,Fantastic team and meaningful work,2025-06-13,No
+S026,I037,4,Solid internship with real-world impact,2025-05-01,Yes
+S099,I012,5,Excellent mentors and project ownership,2025-08-15,Maybe
+S095,I005,4,Good experience but could improve code reviews,2025-08-29,Yes
+S051,I064,4,Solid internship with real-world impact,2025-10-04,Yes
+S039,I073,5,Good hands-on projects and team collaboration,2025-07-20,Yes
+S059,I070,5,Fantastic team and meaningful work,2025-09-09,Maybe
+S060,I035,4,Good hands-on projects and team collaboration,2025-07-21,Yes
+S094,I059,5,Solid internship with real-world impact,2025-08-27,Yes
+S095,I044,5,Solid internship with real-world impact,2025-05-21,No
+S097,I025,4,Excellent mentors and project ownership,2025-05-03,Yes
+S055,I066,4,Good hands-on projects and team collaboration,2025-07-03,No
+S013,I024,4,Fantastic team and meaningful work,2025-07-23,Yes
+S001,I034,4,Great exposure to industry-standard tools,2025-06-21,Yes
+S043,I039,5,Excellent mentors and project ownership,2025-10-11,Yes
+S084,I047,5,Great exposure to industry-standard tools,2025-09-28,No
+S016,I060,4,Amazing work culture and challenging projects,2025-07-02,No
+S065,I040,5,Good hands-on projects and team collaboration,2025-05-03,Yes
+S048,I029,4,Amazing work culture and challenging projects,2025-06-13,Yes
+S059,I048,4,Great stipend and learning opportunities,2025-06-15,Maybe
+S086,I028,5,Great exposure to industry-standard tools,2025-04-22,Maybe
+S011,I068,4,Great stipend and learning opportunities,2025-04-16,Yes
+S010,I073,3,Excellent learning experience with great mentorship,2025-05-26,Maybe
+S026,I074,5,Amazing work culture and challenging projects,2025-09-01,Yes
+S067,I057,3,Great exposure to industry-standard tools,2025-05-17,Yes
+S012,I066,4,Excellent learning experience with great mentorship,2025-06-19,Yes
+S066,I054,4,Excellent mentors and project ownership,2025-09-29,Maybe
+S060,I040,5,Excellent learning experience with great mentorship,2025-07-04,Yes
+S001,I028,5,Good hands-on projects and team collaboration,2025-10-02,Yes
+S045,I009,5,Excellent learning experience with great mentorship,2025-09-26,Yes
+S005,I037,4,Amazing work culture and challenging projects,2025-09-09,No
+S094,I054,4,Good experience but could improve code reviews,2025-06-21,Yes
+S049,I011,5,Great stipend and learning opportunities,2025-09-09,No
+S045,I016,4,Great stipend and learning opportunities,2025-07-05,Maybe
+S017,I029,5,Excellent learning experience with great mentorship,2025-10-08,Yes
+S060,I070,4,Great stipend and learning opportunities,2025-07-08,Yes
+S032,I059,4,Amazing work culture and challenging projects,2025-08-04,Yes
+S093,I015,3,Good experience but could improve code reviews,2025-05-09,Yes
+S031,I027,3,Good hands-on projects and team collaboration,2025-05-14,Yes
+S058,I007,4,Excellent learning experience with great mentorship,2025-07-03,Yes
+S030,I070,4,Excellent learning experience with great mentorship,2025-09-08,Maybe
+S038,I030,5,Excellent mentors and project ownership,2025-07-24,Maybe
+S077,I042,4,Solid internship with real-world impact,2025-09-07,No
+S067,I029,4,Solid internship with real-world impact,2025-08-04,Yes
+S072,I023,5,Good experience but could improve code reviews,2025-05-24,Yes
+S007,I045,5,Good experience but could improve code reviews,2025-06-01,Yes
+S090,I054,4,Amazing work culture and challenging projects,2025-07-29,Yes
+S024,I069,4,Great exposure to industry-standard tools,2025-08-17,Yes
+S091,I019,5,Fantastic team and meaningful work,2025-09-29,Maybe
+S053,I054,5,Great stipend and learning opportunities,2025-09-09,Yes
+S032,I033,4,Best internship for learning cutting-edge tech,2025-05-01,Yes
+S058,I048,3,Great stipend and learning opportunities,2025-08-26,Yes
+S035,I049,5,Excellent mentors and project ownership,2025-05-12,Yes
+S010,I025,5,Excellent mentors and project ownership,2025-04-25,Maybe
+S028,I062,4,Best internship for learning cutting-edge tech,2025-07-28,Yes
+S028,I025,5,Good hands-on projects and team collaboration,2025-06-13,Yes
+S090,I027,4,Great exposure to industry-standard tools,2025-05-25,Yes
+S100,I037,4,Fantastic team and meaningful work,2025-05-30,No
+S046,I040,4,Best internship for learning cutting-edge tech,2025-06-04,Yes
+S060,I013,5,Fantastic team and meaningful work,2025-07-24,Yes
+S048,I041,4,Excellent learning experience with great mentorship,2025-05-22,Yes
+S095,I019,3,Solid internship with real-world impact,2025-05-25,Maybe
+S075,I054,4,Amazing work culture and challenging projects,2025-08-24,Yes
+S030,I049,5,Great exposure to industry-standard tools,2025-06-08,Maybe
+S084,I044,4,Fantastic team and meaningful work,2025-05-02,No
+S063,I059,4,Best internship for learning cutting-edge tech,2025-08-31,Yes
+S093,I070,4,Amazing work culture and challenging projects,2025-05-28,No
+S008,I068,3,Good hands-on projects and team collaboration,2025-04-25,Yes
+S098,I001,4,Amazing work culture and challenging projects,2025-05-05,Yes
+S009,I020,3,Great exposure to industry-standard tools,2025-06-06,Yes
+S048,I008,5,Excellent mentors and project ownership,2025-06-12,No
+S063,I003,3,Great stipend and learning opportunities,2025-05-25,Yes
+S002,I003,5,Solid internship with real-world impact,2025-05-29,Yes
+S003,I065,5,Good experience but could improve code reviews,2025-08-29,Yes
+S013,I068,4,Great exposure to industry-standard tools,2025-08-25,Maybe
+S068,I033,5,Best internship for learning cutting-edge tech,2025-08-06,Yes
+S011,I048,4,Fantastic team and meaningful work,2025-05-22,Yes
+S090,I029,4,Good hands-on projects and team collaboration,2025-04-29,No
+S098,I005,3,Good experience but could improve code reviews,2025-07-08,Yes
+S071,I061,3,Excellent learning experience with great mentorship,2025-04-17,Yes
+S011,I064,5,Good experience but could improve code reviews,2025-05-01,Yes
+S073,I013,5,Excellent learning experience with great mentorship,2025-08-16,Yes
+S089,I073,4,Solid internship with real-world impact,2025-10-02,Yes
+S088,I036,5,Excellent mentors and project ownership,2025-04-28,Yes
+S023,I041,3,Great exposure to industry-standard tools,2025-05-16,Yes
+S097,I051,3,Solid internship with real-world impact,2025-09-02,Maybe
+S031,I073,5,Good experience but could improve code reviews,2025-04-23,Maybe
+S043,I050,5,Amazing work culture and challenging projects,2025-04-20,No
+S011,I065,5,Best internship for learning cutting-edge tech,2025-09-30,Yes
+S056,I030,5,Good hands-on projects and team collaboration,2025-07-18,Maybe
+S099,I051,5,Best internship for learning cutting-edge tech,2025-10-06,No
+S035,I058,4,Great exposure to industry-standard tools,2025-07-14,Maybe
+S049,I056,4,Excellent mentors and project ownership,2025-04-27,Yes
+S011,I038,5,Great exposure to industry-standard tools,2025-09-25,Yes
+S035,I020,4,Amazing work culture and challenging projects,2025-07-06,Yes
+S047,I014,3,Excellent learning experience with great mentorship,2025-07-27,Yes
+S047,I035,3,Amazing work culture and challenging projects,2025-09-21,Yes
+S056,I058,5,Great stipend and learning opportunities,2025-06-04,Yes
+S014,I004,3,Best internship for learning cutting-edge tech,2025-05-25,Yes
+S053,I050,5,Good hands-on projects and team collaboration,2025-05-23,Yes
+S074,I067,4,Good experience but could improve code reviews,2025-08-31,Yes
+S035,I039,4,Fantastic team and meaningful work,2025-09-06,Yes
+S022,I056,4,Good experience but could improve code reviews,2025-07-29,Yes
+S010,I047,4,Great exposure to industry-standard tools,2025-05-06,Yes
+S077,I026,4,Good hands-on projects and team collaboration,2025-09-09,Yes
+S001,I051,4,Excellent mentors and project ownership,2025-07-08,Yes
+S057,I043,4,Excellent mentors and project ownership,2025-09-09,Yes
+S042,I026,4,Best internship for learning cutting-edge tech,2025-08-29,Yes
+S041,I038,5,Fantastic team and meaningful work,2025-05-19,Yes
+S042,I049,4,Good experience but could improve code reviews,2025-07-12,Yes
+S073,I026,5,Great stipend and learning opportunities,2025-08-28,No
+S099,I071,3,Fantastic team and meaningful work,2025-08-21,Yes
+S038,I009,5,Good experience but could improve code reviews,2025-04-24,Yes
+S018,I039,4,Solid internship with real-world impact,2025-04-28,Yes
+S092,I055,5,Good experience but could improve code reviews,2025-09-25,Yes
+S077,I062,5,Good experience but could improve code reviews,2025-05-30,Maybe
+S089,I054,5,Excellent learning experience with great mentorship,2025-07-13,No
+S069,I011,3,Great exposure to industry-standard tools,2025-04-28,No
+S046,I022,5,Excellent mentors and project ownership,2025-10-02,Maybe
+S083,I052,5,Best internship for learning cutting-edge tech,2025-06-25,Yes
+S002,I013,4,Great exposure to industry-standard tools,2025-06-05,No
+S067,I072,5,Excellent mentors and project ownership,2025-08-18,Yes
+S048,I051,4,Excellent mentors and project ownership,2025-04-20,Maybe
+S020,I045,3,Fantastic team and meaningful work,2025-09-17,Yes
+S054,I011,3,Amazing work culture and challenging projects,2025-07-16,Yes
+S044,I059,5,Great exposure to industry-standard tools,2025-06-02,Yes
+S045,I061,3,Fantastic team and meaningful work,2025-04-18,Yes
+S041,I009,4,Excellent learning experience with great mentorship,2025-09-14,Yes
+S044,I014,5,Amazing work culture and challenging projects,2025-08-12,Maybe
+S023,I071,4,Best internship for learning cutting-edge tech,2025-05-23,Yes
+S060,I030,5,Good experience but could improve code reviews,2025-05-05,Yes
+S024,I056,4,Excellent learning experience with great mentorship,2025-05-09,Yes
+S058,I055,4,Excellent learning experience with great mentorship,2025-04-16,Yes
+S027,I036,5,Good hands-on projects and team collaboration,2025-05-19,Yes
+S069,I024,4,Best internship for learning cutting-edge tech,2025-08-24,Yes
+S015,I034,5,Fantastic team and meaningful work,2025-05-31,No
+S041,I050,5,Good experience but could improve code reviews,2025-05-16,Yes
+S045,I046,5,Fantastic team and meaningful work,2025-05-08,Yes
+S087,I039,5,Excellent mentors and project ownership,2025-09-22,No
+S018,I041,3,Great exposure to industry-standard tools,2025-07-27,Yes
+S024,I048,5,Amazing work culture and challenging projects,2025-06-05,Yes
+S054,I018,5,Good experience but could improve code reviews,2025-06-27,Yes
+S063,I069,5,Amazing work culture and challenging projects,2025-05-24,Yes
+S063,I037,4,Amazing work culture and challenging projects,2025-07-25,Yes
+S080,I007,5,Best internship for learning cutting-edge tech,2025-10-11,Yes
+S018,I025,5,Good experience but could improve code reviews,2025-05-23,Maybe
+S084,I064,4,Fantastic team and meaningful work,2025-06-29,No
+S057,I063,4,Good hands-on projects and team collaboration,2025-05-22,Yes
+S098,I029,4,Excellent learning experience with great mentorship,2025-08-04,Yes
+S069,I037,4,Fantastic team and meaningful work,2025-05-22,No
+S099,I064,5,Great stipend and learning opportunities,2025-09-15,Maybe
+S015,I035,5,Great stipend and learning opportunities,2025-07-12,Maybe
+S097,I006,5,Fantastic team and meaningful work,2025-05-27,Yes
+S055,I014,5,Great exposure to industry-standard tools,2025-07-29,Yes
+S058,I034,4,Good hands-on projects and team collaboration,2025-06-23,Yes
+S100,I031,4,Excellent mentors and project ownership,2025-04-20,Yes
+S091,I055,4,Excellent mentors and project ownership,2025-09-08,Yes
+S027,I008,5,Best internship for learning cutting-edge tech,2025-05-30,Yes
+S077,I069,4,Best internship for learning cutting-edge tech,2025-04-16,Yes
+S038,I074,4,Great stipend and learning opportunities,2025-04-23,Yes
+S018,I053,3,Solid internship with real-world impact,2025-04-29,Yes
+S090,I017,4,Amazing work culture and challenging projects,2025-07-23,Yes
+S098,I051,4,Amazing work culture and challenging projects,2025-05-19,No
+S035,I054,4,Fantastic team and meaningful work,2025-09-24,No
+S048,I059,4,Best internship for learning cutting-edge tech,2025-05-18,Yes
+S100,I012,5,Fantastic team and meaningful work,2025-05-04,No
+S090,I046,5,Good hands-on projects and team collaboration,2025-05-30,Yes
+S028,I055,5,Great exposure to industry-standard tools,2025-06-09,Yes
+S042,I037,4,Great stipend and learning opportunities,2025-05-19,Yes
+S073,I063,5,Best internship for learning cutting-edge tech,2025-04-22,Yes
+S006,I013,5,Fantastic team and meaningful work,2025-10-09,Yes
+S021,I057,4,Excellent learning experience with great mentorship,2025-06-26,Yes
+S089,I017,5,Solid internship with real-world impact,2025-09-03,Yes
+S012,I047,4,Good hands-on projects and team collaboration,2025-07-10,No
+S084,I022,3,Good experience but could improve code reviews,2025-05-06,Yes
+S093,I030,4,Good hands-on projects and team collaboration,2025-04-16,Yes
+S029,I067,5,Fantastic team and meaningful work,2025-10-11,Yes
+S090,I044,5,Good hands-on projects and team collaboration,2025-06-27,No
+S017,I062,3,Great exposure to industry-standard tools,2025-07-07,Yes
+S018,I049,5,Amazing work culture and challenging projects,2025-05-02,No
+S019,I009,5,Excellent mentors and project ownership,2025-10-11,Maybe
+S096,I020,4,Excellent mentors and project ownership,2025-04-21,Yes
+S028,I012,3,Amazing work culture and challenging projects,2025-09-12,Maybe
+S094,I050,4,Good experience but could improve code reviews,2025-07-25,Yes
+S032,I036,5,Good hands-on projects and team collaboration,2025-08-11,Maybe
+S077,I037,5,Excellent learning experience with great mentorship,2025-04-28,Yes
+S027,I067,5,Great stipend and learning opportunities,2025-08-26,No
+S051,I038,5,Excellent learning experience with great mentorship,2025-08-13,Yes
+S050,I015,4,Fantastic team and meaningful work,2025-05-03,Maybe
+S010,I068,3,Best internship for learning cutting-edge tech,2025-07-24,Yes
+S050,I073,4,Best internship for learning cutting-edge tech,2025-05-27,No
+S023,I061,5,Good hands-on projects and team collaboration,2025-10-09,Maybe
+S009,I002,4,Great exposure to industry-standard tools,2025-10-03,Yes
+S090,I052,3,Great stipend and learning opportunities,2025-05-29,Maybe
+S020,I036,3,Solid internship with real-world impact,2025-09-23,Maybe
+S027,I020,5,Best internship for learning cutting-edge tech,2025-07-05,Maybe
+S082,I009,4,Good experience but could improve code reviews,2025-08-13,Yes
+S032,I012,4,Good hands-on projects and team collaboration,2025-06-19,Maybe
+S078,I008,4,Amazing work culture and challenging projects,2025-09-13,Yes
+S091,I018,5,Excellent learning experience with great mentorship,2025-09-02,Yes
+S045,I067,5,Solid internship with real-world impact,2025-09-01,Yes

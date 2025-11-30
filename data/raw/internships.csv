@@ -1,0 +1,76 @@
+internship_id,company,domain,role,required_skills,location,duration_months,stipend,rating,total_reviews,description
+I001,Ola,Data Analytics,UI Developer Intern,"React Native,JavaScript,Redux,API Integration",Mumbai,4,45000,4.3,76,Work on real-world Data Analytics projects with cutting-edge technologies
+I002,PhonePe,Full Stack Development,Full Stack Developer Intern,"Python,IoT,Embedded Systems,Arduino",Pune,6,48000,4.0,148,Work on real-world Full Stack Development projects with cutting-edge technologies
+I003,Qualcomm,Frontend Development,Java Developer Intern,"Python,Machine Learning,SQL,Data Analysis",Gurgaon,5,50000,4.5,48,Work on real-world Frontend Development projects with cutting-edge technologies
+I004,Cisco,Data Analytics,Software Engineer Intern,"Angular,TypeScript,Node.js,MongoDB",Noida,5,42000,4.8,80,Work on real-world Data Analytics projects with cutting-edge technologies
+I005,Salesforce,Frontend Development,AI Research Intern,"HTML,CSS,JavaScript,UI/UX Design,Figma",Noida,5,48000,4.2,105,Work on real-world Frontend Development projects with cutting-edge technologies
+I006,Microsoft,IoT Development,Deep Learning Intern,"Python,NLP,Machine Learning,Text Mining",Bangalore,3,48000,4.7,103,Work on real-world IoT Development projects with cutting-edge technologies
+I007,HCL,Web Development,UI Developer Intern,"HTML,CSS,JavaScript,UI/UX Design,Figma",Pune,5,50000,4.7,198,Work on real-world Web Development projects with cutting-edge technologies
+I008,IBM,IoT Development,AI Research Intern,"Java,Spring Boot,MySQL,REST API",Chennai,6,22000,4.5,63,Work on real-world IoT Development projects with cutting-edge technologies
+I009,Infosys,Mobile Development,Backend Engineer Intern,"React Native,JavaScript,Redux,API Integration",Mumbai,4,28000,4.7,123,Work on real-world Mobile Development projects with cutting-edge technologies
+I010,LinkedIn,Natural Language Processing,Java Developer Intern,"Python,Data Visualization,Tableau,PowerBI",Chennai,6,60000,4.2,116,Work on real-world Natural Language Processing projects with cutting-edge technologies
+I011,Accenture,Frontend Development,Full Stack Developer Intern,"Flutter,Dart,Firebase,REST API",Pune,6,60000,4.5,53,Work on real-world Frontend Development projects with cutting-edge technologies
+I012,Adobe,Data Science,Java Developer Intern,"Docker,Kubernetes,DevOps,CI/CD",Hyderabad,6,38000,4.6,97,Work on real-world Data Science projects with cutting-edge technologies
+I013,Uber,Competitive Programming,UI Developer Intern,"Python,Deep Learning,TensorFlow,Computer Vision",Pune,6,22000,4.5,173,Work on real-world Competitive Programming projects with cutting-edge technologies
+I014,Freshworks,Web Development,NLP Intern,"React,JavaScript,HTML,CSS,Node.js",Gurgaon,5,50000,4.3,65,Work on real-world Web Development projects with cutting-edge technologies
+I015,Amazon,Data Science,React Native Developer,"Django,Python,PostgreSQL,REST API",Hyderabad,3,30000,4.9,64,Work on real-world Data Science projects with cutting-edge technologies
+I016,Salesforce,Frontend Development,UI Developer Intern,"Docker,Kubernetes,DevOps,CI/CD",Noida,4,40000,4.6,155,Work on real-world Frontend Development projects with cutting-edge technologies
+I017,Twitter,Competitive Programming,Java Developer Intern,"Java,Spring Boot,MySQL,REST API",Delhi,4,42000,4.3,90,Work on real-world Competitive Programming projects with cutting-edge technologies
+I018,Urban Company,Backend Development,UI Developer Intern,"Docker,Kubernetes,DevOps,CI/CD",Delhi,3,40000,4.1,61,Work on real-world Backend Development projects with cutting-edge technologies
+I019,Intel,Backend Development,Frontend Developer Intern,"Python,Machine Learning,SQL,Data Analysis",Bangalore,5,30000,5.0,174,Work on real-world Backend Development projects with cutting-edge technologies
+I020,NVIDIA,Backend Development,Android Developer Intern,"C++,Algorithms,Data Structures,Problem Solving",Pune,4,38000,4.7,182,Work on real-world Backend Development projects with cutting-edge technologies
+I021,Google,Mobile Development,Flutter Developer Intern,"Flutter,Dart,Firebase,REST API",Kochi,5,60000,4.0,199,Work on real-world Mobile Development projects with cutting-edge technologies
+I022,Microsoft,Full Stack Development,Data Science Intern,"Android,Kotlin,Java,SQLite",Pune,5,22000,4.0,43,Work on real-world Full Stack Development projects with cutting-edge technologies
+I023,IBM,DevOps,PHP Developer Intern,"Vue.js,JavaScript,HTML,CSS",Hyderabad,3,42000,4.3,122,Work on real-world DevOps projects with cutting-edge technologies
+I024,Walmart Labs,Web Development,AI Research Intern,"PHP,Laravel,MySQL,Web Development",Kochi,4,48000,3.9,198,Work on real-world Web Development projects with cutting-edge technologies
+I025,LinkedIn,Mobile Development,IoT Engineer Intern,"Python,Machine Learning,SQL,Data Analysis",Bangalore,6,40000,4.3,57,Work on real-world Mobile Development projects with cutting-edge technologies
+I026,LG,DevOps,IoT Engineer Intern,"React,JavaScript,HTML,CSS,Node.js",Hyderabad,5,48000,4.0,62,Work on real-world DevOps projects with cutting-edge technologies
+I027,Swiggy,Web Development,Software Engineer Intern,"Docker,Kubernetes,DevOps,CI/CD",Delhi,6,48000,4.4,146,Work on real-world Web Development projects with cutting-edge technologies
+I028,Walmart Labs,Web Development,PHP Developer Intern,"Python,Deep Learning,TensorFlow,Computer Vision",Hyderabad,4,40000,4.3,88,Work on real-world Web Development projects with cutting-edge technologies
+I029,Oracle,Data Analytics,IoT Engineer Intern,"Python,IoT,Embedded Systems,Arduino",Noida,3,38000,4.3,200,Work on real-world Data Analytics projects with cutting-edge technologies
+I030,Qualcomm,Data Analytics,Flutter Developer Intern,"Django,Python,PostgreSQL,REST API",Hyderabad,3,25000,3.9,54,Work on real-world Data Analytics projects with cutting-edge technologies
+I031,Urban Company,Signal Processing,Flutter Developer Intern,"Docker,Kubernetes,DevOps,CI/CD",Bangalore,5,50000,3.9,120,Work on real-world Signal Processing projects with cutting-edge technologies
+I032,SAP,DevOps,Backend Developer Intern,"Angular,TypeScript,Node.js,MongoDB",Chennai,5,25000,4.5,84,Work on real-world DevOps projects with cutting-edge technologies
+I033,Cognizant,IoT Development,Signal Processing Intern,"HTML,CSS,JavaScript,UI/UX Design,Figma",Hyderabad,5,45000,4.2,101,Work on real-world IoT Development projects with cutting-edge technologies
+I034,Netflix,AI/ML,PHP Developer Intern,"Docker,Kubernetes,DevOps,CI/CD",Kochi,3,48000,4.9,98,Work on real-world AI/ML projects with cutting-edge technologies
+I035,Microsoft,Full Stack Development,Java Developer Intern,"Angular,TypeScript,Node.js,MongoDB",Delhi,5,22000,4.0,66,Work on real-world Full Stack Development projects with cutting-edge technologies
+I036,Netflix,IoT Development,Deep Learning Intern,"React,JavaScript,HTML,CSS,Node.js",Mumbai,3,25000,4.7,85,Work on real-world IoT Development projects with cutting-edge technologies
+I037,Salesforce,Competitive Programming,IoT Engineer Intern,"Python,R,Statistics,Machine Learning",Mumbai,5,35000,4.7,175,Work on real-world Competitive Programming projects with cutting-edge technologies
+I038,Airbnb,Backend Development,Backend Developer Intern,"Flutter,Dart,Firebase,REST API",Mumbai,3,50000,3.9,143,Work on real-world Backend Development projects with cutting-edge technologies
+I039,SAP,Frontend Development,DevOps Intern,"PHP,Laravel,MySQL,Web Development",Noida,5,30000,4.7,59,Work on real-world Frontend Development projects with cutting-edge technologies
+I040,Myntra,Competitive Programming,AI Research Intern,"Angular,TypeScript,Node.js,MongoDB",Gurgaon,5,22000,4.1,183,Work on real-world Competitive Programming projects with cutting-edge technologies
+I041,Flipkart,Data Science,Frontend Developer Intern,"Angular,TypeScript,Node.js,MongoDB",Pune,4,60000,4.1,113,Work on real-world Data Science projects with cutting-edge technologies
+I042,Accenture,Data Science,Signal Processing Intern,"React Native,JavaScript,Redux,API Integration",Mumbai,4,40000,4.4,88,Work on real-world Data Science projects with cutting-edge technologies
+I043,Walmart Labs,Natural Language Processing,UI Developer Intern,"React,JavaScript,HTML,CSS,Node.js",Noida,3,40000,3.8,49,Work on real-world Natural Language Processing projects with cutting-edge technologies
+I044,Freshworks,Web Development,PHP Developer Intern,"Python,Signal Processing,MATLAB,ML",Noida,6,35000,3.9,35,Work on real-world Web Development projects with cutting-edge technologies
+I045,Freshworks,Full Stack Development,DevOps Intern,"PHP,Laravel,MySQL,Web Development",Delhi,3,40000,4.8,92,Work on real-world Full Stack Development projects with cutting-edge technologies
+I046,SAP,Web Development,Deep Learning Intern,"Vue.js,JavaScript,HTML,CSS",Hyderabad,6,35000,4.7,86,Work on real-world Web Development projects with cutting-edge technologies
+I047,Byju's,Signal Processing,Business Analyst Intern,"React,JavaScript,HTML,CSS,Node.js",Kochi,3,45000,4.4,119,Work on real-world Signal Processing projects with cutting-edge technologies
+I048,Myntra,DevOps,Flutter Developer Intern,"HTML,CSS,JavaScript,UI/UX Design,Figma",Hyderabad,4,35000,4.0,184,Work on real-world DevOps projects with cutting-edge technologies
+I049,Cognizant,Signal Processing,Full Stack Developer Intern,"Python,Data Visualization,Tableau,PowerBI",Gurgaon,6,60000,4.5,178,Work on real-world Signal Processing projects with cutting-edge technologies
+I050,Cisco,IoT Development,Software Engineer Intern,"Python,R,Statistics,Machine Learning",Delhi,4,42000,3.9,143,Work on real-world IoT Development projects with cutting-edge technologies
+I051,Razorpay,Signal Processing,Java Developer Intern,"Python,Signal Processing,MATLAB,ML",Bangalore,5,45000,3.9,148,Work on real-world Signal Processing projects with cutting-edge technologies
+I052,Cisco,Data Science,Backend Developer Intern,"Android,Kotlin,Java,SQLite",Chennai,3,50000,4.8,53,Work on real-world Data Science projects with cutting-edge technologies
+I053,Twitter,Web Development,ML Engineer Intern,"Python,IoT,Embedded Systems,Arduino",Gurgaon,3,42000,4.9,176,Work on real-world Web Development projects with cutting-edge technologies
+I054,Paytm,Data Analytics,DevOps Intern,"Django,Python,PostgreSQL,REST API",Kochi,4,22000,4.3,117,Work on real-world Data Analytics projects with cutting-edge technologies
+I055,Infosys,Natural Language Processing,Business Analyst Intern,"Java,Spring Boot,MySQL,REST API",Pune,6,42000,4.4,186,Work on real-world Natural Language Processing projects with cutting-edge technologies
+I056,PhonePe,Data Analytics,UI Developer Intern,"Angular,TypeScript,Node.js,MongoDB",Noida,6,60000,4.2,183,Work on real-world Data Analytics projects with cutting-edge technologies
+I057,Flipkart,Signal Processing,Backend Engineer Intern,"React,JavaScript,HTML,CSS,Node.js",Delhi,3,45000,4.6,102,Work on real-world Signal Processing projects with cutting-edge technologies
+I058,Qualcomm,DevOps,DevOps Intern,"Flutter,Dart,Firebase,REST API",Delhi,3,48000,4.6,119,Work on real-world DevOps projects with cutting-edge technologies
+I059,Razorpay,IoT Development,Deep Learning Intern,"Flutter,Dart,Firebase,REST API",Hyderabad,5,45000,4.3,114,Work on real-world IoT Development projects with cutting-edge technologies
+I060,IBM,IoT Development,ML Engineer Intern,"React,JavaScript,HTML,CSS,Node.js",Noida,5,22000,4.2,76,Work on real-world IoT Development projects with cutting-edge technologies
+I061,NVIDIA,Data Analytics,Signal Processing Intern,"C++,Algorithms,Data Structures,Problem Solving",Pune,4,28000,3.9,55,Work on real-world Data Analytics projects with cutting-edge technologies
+I062,Walmart Labs,Signal Processing,Android Developer Intern,"Vue.js,JavaScript,HTML,CSS",Bangalore,5,60000,4.5,182,Work on real-world Signal Processing projects with cutting-edge technologies
+I063,Salesforce,Full Stack Development,Business Analyst Intern,"Python,Data Visualization,Tableau,PowerBI",Mumbai,6,22000,4.3,90,Work on real-world Full Stack Development projects with cutting-edge technologies
+I064,Cisco,Web Development,React Native Developer,"PHP,Laravel,MySQL,Web Development",Pune,4,35000,5.0,150,Work on real-world Web Development projects with cutting-edge technologies
+I065,Paytm,Data Analytics,Software Engineer Intern,"PHP,Laravel,MySQL,Web Development",Gurgaon,5,60000,4.3,165,Work on real-world Data Analytics projects with cutting-edge technologies
+I066,Oracle,Full Stack Development,Frontend Developer Intern,"Flutter,Dart,Firebase,REST API",Chennai,3,50000,4.4,125,Work on real-world Full Stack Development projects with cutting-edge technologies
+I067,Apple,Backend Development,ML Engineer Intern,"Python,Deep Learning,TensorFlow,Computer Vision",Chennai,3,60000,4.0,145,Work on real-world Backend Development projects with cutting-edge technologies
+I068,Walmart Labs,Full Stack Development,PHP Developer Intern,"React,JavaScript,HTML,CSS,Node.js",Pune,6,38000,4.9,136,Work on real-world Full Stack Development projects with cutting-edge technologies
+I069,Flipkart,Competitive Programming,ML Engineer Intern,"Android,Kotlin,Java,SQLite",Pune,6,25000,4.2,37,Work on real-world Competitive Programming projects with cutting-edge technologies
+I070,Freshworks,Backend Development,Backend Engineer Intern,"Flutter,Dart,Firebase,REST API",Mumbai,3,35000,4.9,150,Work on real-world Backend Development projects with cutting-edge technologies
+I071,IBM,Signal Processing,Signal Processing Intern,"PHP,Laravel,MySQL,Web Development",Bangalore,3,22000,4.1,68,Work on real-world Signal Processing projects with cutting-edge technologies
+I072,Apple,DevOps,DevOps Intern,"Vue.js,JavaScript,HTML,CSS",Noida,3,60000,4.1,107,Work on real-world DevOps projects with cutting-edge technologies
+I073,Accenture,Data Science,NLP Intern,"React Native,JavaScript,Redux,API Integration",Gurgaon,3,25000,4.8,157,Work on real-world Data Science projects with cutting-edge technologies
+I074,Airbnb,Natural Language Processing,Data Science Intern,"Vue.js,JavaScript,HTML,CSS",Pune,4,35000,4.3,187,Work on real-world Natural Language Processing projects with cutting-edge technologies
+I075,Myntra,AI/ML,Software Engineer Intern,"React Native,JavaScript,Redux,API Integration",Mumbai,3,45000,5.0,47,Work on real-world AI/ML projects with cutting-edge technologies

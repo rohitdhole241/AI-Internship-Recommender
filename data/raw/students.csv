@@ -1,0 +1,101 @@
+student_id,name,branch,year,cgpa,skills,domain_interest,location_preference,past_internships
+S001,Kiaan Sharma,ECE,3,7.6,"Python,Deep Learning,TensorFlow,Computer Vision",IoT Development,"Kochi,Hyderabad",None
+S002,Aanya Patel,IT,3,7.5,"Vue.js,JavaScript,HTML,CSS",Web Development,"Bangalore,Kochi",TCS
+S003,Karthik Agarwal,CSE,4,8.5,"Python,Machine Learning,SQL,Data Analysis",Signal Processing,"Mumbai,Noida",Wipro
+S004,Sara Reddy,CSE,4,7.3,"Python,IoT,Embedded Systems,Arduino",Backend Development,"Delhi,Delhi",None
+S005,Pari Patel,EEE,3,9.4,"Python,IoT,Embedded Systems,Arduino",Backend Development,"Kochi,Chennai",None
+S006,Ishaan Menon,CSE,3,7.1,"HTML,CSS,JavaScript,UI/UX Design,Figma",Signal Processing,"Chennai,Hyderabad",TCS
+S007,Dev Bansal,ECE,4,8.6,"Android,Kotlin,Java,SQLite",Full Stack Development,"Delhi,Delhi",TCS
+S008,Sara Kumar,CSE,3,7.4,"Python,IoT,Embedded Systems,Arduino",Mobile Development,"Kochi,Pune",Wipro
+S009,Vihaan Gupta,IT,4,8.0,"React,JavaScript,HTML,CSS,Node.js",AI/ML,"Delhi,Pune",IBM
+S010,Meera Kapoor,CSE,4,7.3,"Docker,Kubernetes,DevOps,CI/CD",Natural Language Processing,"Chennai,Noida",None
+S011,Meera Mehta,CSE,3,8.3,"React,JavaScript,HTML,CSS,Node.js",Signal Processing,"Bangalore,Hyderabad",Amazon
+S012,Diya Agarwal,IT,4,8.0,"PHP,Laravel,MySQL,Web Development",Natural Language Processing,"Chennai,Kochi",Google
+S013,Kiaan Rao,ECE,4,7.3,"React Native,JavaScript,Redux,API Integration",Full Stack Development,"Gurgaon,Bangalore",Infosys
+S014,Rudra Nair,IT,4,9.1,"Vue.js,JavaScript,HTML,CSS",Web Development,"Pune,Mumbai",Wipro
+S015,Diya Rao,IT,4,8.2,"Python,Deep Learning,TensorFlow,Computer Vision",Data Analytics,"Chennai,Pune",Google
+S016,Myra Menon,IT,3,8.8,"React,JavaScript,HTML,CSS,Node.js",Signal Processing,"Kochi,Mumbai",Amazon
+S017,Laksh Rao,CSE,4,8.3,"React Native,JavaScript,Redux,API Integration",AI/ML,"Kochi,Pune",Infosys
+S018,Meera Mehta,EEE,4,7.3,"HTML,CSS,JavaScript,UI/UX Design,Figma",Backend Development,"Delhi,Bangalore",None
+S019,Prisha Gupta,CSE,3,7.2,"Java,Spring Boot,MySQL,REST API",AI/ML,"Hyderabad,Bangalore",Wipro
+S020,Arjun Pillai,CSE,4,8.7,"C++,Algorithms,Data Structures,Problem Solving",Natural Language Processing,"Mumbai,Gurgaon",TCS
+S021,Laksh Agarwal,CSE,3,7.2,"React Native,JavaScript,Redux,API Integration",Data Analytics,"Noida,Noida",IBM
+S022,Vihaan Singh,IT,4,8.8,"Python,Deep Learning,TensorFlow,Computer Vision",AI/ML,"Pune,Pune",Cognizant
+S023,Zara Reddy,EEE,3,7.7,"HTML,CSS,JavaScript,UI/UX Design,Figma",Backend Development,"Gurgaon,Kochi",Microsoft
+S024,Vihaan Rao,IT,3,9.3,"HTML,CSS,JavaScript,UI/UX Design,Figma",Full Stack Development,"Noida,Gurgaon",IBM
+S025,Saanvi Bansal,IT,3,7.9,"Python,IoT,Embedded Systems,Arduino",Mobile Development,"Gurgaon,Chennai",Accenture
+S026,Prisha Malhotra,CSE,3,7.7,"Java,Spring Boot,MySQL,REST API",Web Development,"Kochi,Bangalore",Wipro
+S027,Vihaan Patel,EEE,3,7.1,"Vue.js,JavaScript,HTML,CSS",Backend Development,"Mumbai,Hyderabad",None
+S028,Arjun Gupta,EEE,3,9.4,"Python,Signal Processing,MATLAB,ML",AI/ML,"Bangalore,Hyderabad",Accenture
+S029,Ahaan Menon,ECE,4,7.5,"Python,R,Statistics,Machine Learning",AI/ML,"Chennai,Noida",Amazon
+S030,Ira Kapoor,ECE,3,7.0,"Python,Signal Processing,MATLAB,ML",Backend Development,"Hyderabad,Kochi",TCS
+S031,Rudra Joshi,CSE,4,9.2,"HTML,CSS,JavaScript,UI/UX Design,Figma",Data Analytics,"Chennai,Mumbai",IBM
+S032,Karthik Desai,IT,4,9.3,"Python,Deep Learning,TensorFlow,Computer Vision",Full Stack Development,"Chennai,Hyderabad",Microsoft
+S033,Prisha Reddy,ECE,4,8.5,"Python,R,Statistics,Machine Learning",AI/ML,"Chennai,Kochi",IBM
+S034,Pari Patel,IT,4,9.1,"Java,Spring Boot,MySQL,REST API",Data Science,"Delhi,Mumbai",Infosys
+S035,Diya Kapoor,EEE,3,7.3,"Flutter,Dart,Firebase,REST API",Natural Language Processing,"Bangalore,Delhi",None
+S036,Prisha Reddy,EEE,3,7.1,"Android,Kotlin,Java,SQLite",Signal Processing,"Bangalore,Delhi",TCS
+S037,Myra Singh,ECE,4,9.4,"Flutter,Dart,Firebase,REST API",AI/ML,"Mumbai,Mumbai",Accenture
+S038,Vivaan Nair,ECE,4,9.0,"HTML,CSS,JavaScript,UI/UX Design,Figma",Mobile Development,"Mumbai,Hyderabad",Accenture
+S039,Aditya Malhotra,CSE,3,9.0,"PHP,Laravel,MySQL,Web Development",Data Analytics,"Chennai,Pune",TCS
+S040,Vivaan Iyer,EEE,4,7.7,"React,JavaScript,HTML,CSS,Node.js",Signal Processing,"Chennai,Delhi",Cognizant
+S041,Meera Rao,ECE,3,7.3,"Python,NLP,Machine Learning,Text Mining",Full Stack Development,"Chennai,Bangalore",Microsoft
+S042,Reyansh Agarwal,ECE,4,8.1,"Vue.js,JavaScript,HTML,CSS",Backend Development,"Noida,Pune",Infosys
+S043,Aditya Agarwal,IT,3,7.9,"React,JavaScript,HTML,CSS,Node.js",IoT Development,"Delhi,Delhi",Microsoft
+S044,Ira Pillai,ECE,4,7.8,"Angular,TypeScript,Node.js,MongoDB",Natural Language Processing,"Mumbai,Pune",Accenture
+S045,Ayaan Nair,ECE,4,8.4,"Python,Machine Learning,SQL,Data Analysis",Mobile Development,"Chennai,Pune",Accenture
+S046,Ahaan Choudhary,ECE,4,8.1,"C++,Algorithms,Data Structures,Problem Solving",Natural Language Processing,"Gurgaon,Mumbai",Microsoft
+S047,Navya Pillai,ECE,3,9.0,"HTML,CSS,JavaScript,UI/UX Design,Figma",IoT Development,"Chennai,Pune",TCS
+S048,Krishna Sharma,IT,3,9.5,"React,JavaScript,HTML,CSS,Node.js",Frontend Development,"Noida,Pune",Accenture
+S049,Advait Bansal,CSE,3,8.6,"Python,Machine Learning,SQL,Data Analysis",Signal Processing,"Hyderabad,Noida",TCS
+S050,Ananya Pillai,EEE,3,8.4,"Python,Deep Learning,TensorFlow,Computer Vision",Frontend Development,"Mumbai,Gurgaon",Cognizant
+S051,Prisha Choudhary,ECE,4,8.5,"Vue.js,JavaScript,HTML,CSS",Competitive Programming,"Kochi,Gurgaon",Amazon
+S052,Laksh Kapoor,ECE,3,9.1,"Python,NLP,Machine Learning,Text Mining",Signal Processing,"Kochi,Gurgaon",TCS
+S053,Sara Kapoor,IT,4,7.6,"Python,R,Statistics,Machine Learning",Data Analytics,"Kochi,Hyderabad",Amazon
+S054,Krishna Gupta,EEE,3,8.8,"React,JavaScript,HTML,CSS,Node.js",Competitive Programming,"Noida,Delhi",Cognizant
+S055,Naina Agarwal,IT,3,9.1,"Python,IoT,Embedded Systems,Arduino",Signal Processing,"Bangalore,Noida",IBM
+S056,Aarav Mehta,ECE,4,9.1,"React Native,JavaScript,Redux,API Integration",Natural Language Processing,"Kochi,Pune",IBM
+S057,Anika Joshi,EEE,4,7.1,"Python,R,Statistics,Machine Learning",IoT Development,"Noida,Mumbai",IBM
+S058,Arnav Choudhary,IT,4,8.5,"Python,Machine Learning,SQL,Data Analysis",Backend Development,"Noida,Mumbai",IBM
+S059,Ananya Patel,ECE,4,7.8,"PHP,Laravel,MySQL,Web Development",Data Analytics,"Delhi,Noida",Infosys
+S060,Tara Joshi,IT,4,7.0,"Docker,Kubernetes,DevOps,CI/CD",Data Science,"Delhi,Pune",Microsoft
+S061,Aditya Sharma,CSE,3,9.1,"Flutter,Dart,Firebase,REST API",AI/ML,"Mumbai,Gurgaon",Microsoft
+S062,Avni Iyer,EEE,4,8.9,"Python,Data Visualization,Tableau,PowerBI",Web Development,"Hyderabad,Mumbai",Infosys
+S063,Dev Menon,IT,4,8.4,"Python,IoT,Embedded Systems,Arduino",Competitive Programming,"Pune,Hyderabad",None
+S064,Myra Singh,ECE,3,9.0,"Python,Signal Processing,MATLAB,ML",Signal Processing,"Bangalore,Delhi",Cognizant
+S065,Aanya Mehta,IT,4,7.0,"React Native,JavaScript,Redux,API Integration",Frontend Development,"Hyderabad,Noida",Wipro
+S066,Naina Reddy,EEE,3,8.8,"Python,NLP,Machine Learning,Text Mining",Web Development,"Kochi,Gurgaon",IBM
+S067,Aanya Menon,ECE,4,9.1,"React,JavaScript,HTML,CSS,Node.js",Mobile Development,"Gurgaon,Pune",IBM
+S068,Avni Choudhary,EEE,4,7.1,"Python,R,Statistics,Machine Learning",Full Stack Development,"Gurgaon,Pune",Wipro
+S069,Pari Verma,ECE,4,8.4,"Vue.js,JavaScript,HTML,CSS",AI/ML,"Hyderabad,Pune",Accenture
+S070,Advait Rao,CSE,4,8.6,"Django,Python,PostgreSQL,REST API",Frontend Development,"Bangalore,Hyderabad",Infosys
+S071,Anika Bansal,CSE,4,8.7,"Android,Kotlin,Java,SQLite",Frontend Development,"Kochi,Kochi",Wipro
+S072,Aanya Rao,ECE,4,8.8,"Python,NLP,Machine Learning,Text Mining",Mobile Development,"Chennai,Pune",Microsoft
+S073,Aadhya Verma,IT,3,7.5,"Django,Python,PostgreSQL,REST API",Mobile Development,"Kochi,Chennai",Microsoft
+S074,Aadhya Desai,CSE,4,7.4,"Python,Machine Learning,SQL,Data Analysis",DevOps,"Kochi,Mumbai",Infosys
+S075,Aditya Patel,ECE,3,8.6,"Django,Python,PostgreSQL,REST API",Backend Development,"Bangalore,Chennai",IBM
+S076,Laksh Kapoor,ECE,3,9.4,"Python,NLP,Machine Learning,Text Mining",Frontend Development,"Hyderabad,Hyderabad",Accenture
+S077,Advait Kumar,IT,3,7.4,"Python,Signal Processing,MATLAB,ML",Mobile Development,"Hyderabad,Pune",Microsoft
+S078,Prisha Agarwal,CSE,4,8.1,"PHP,Laravel,MySQL,Web Development",Mobile Development,"Noida,Chennai",None
+S079,Veer Patel,IT,3,8.6,"Python,NLP,Machine Learning,Text Mining",IoT Development,"Hyderabad,Mumbai",TCS
+S080,Ananya Rao,IT,3,7.0,"PHP,Laravel,MySQL,Web Development",DevOps,"Gurgaon,Chennai",Google
+S081,Anika Desai,ECE,4,7.2,"HTML,CSS,JavaScript,UI/UX Design,Figma",Mobile Development,"Pune,Noida",Microsoft
+S082,Karthik Gupta,CSE,4,9.1,"React,JavaScript,HTML,CSS,Node.js",Data Science,"Mumbai,Chennai",None
+S083,Avni Desai,EEE,3,8.2,"Angular,TypeScript,Node.js,MongoDB",DevOps,"Noida,Chennai",Cognizant
+S084,Karthik Malhotra,EEE,3,8.5,"React Native,JavaScript,Redux,API Integration",DevOps,"Delhi,Chennai",Google
+S085,Sai Gupta,IT,4,8.4,"Python,Data Visualization,Tableau,PowerBI",Frontend Development,"Kochi,Gurgaon",Infosys
+S086,Ananya Menon,EEE,4,9.4,"Django,Python,PostgreSQL,REST API",Data Analytics,"Noida,Delhi",Wipro
+S087,Dev Nair,ECE,4,8.7,"Angular,TypeScript,Node.js,MongoDB",IoT Development,"Noida,Kochi",Google
+S088,Naina Kumar,ECE,4,7.8,"Python,IoT,Embedded Systems,Arduino",Natural Language Processing,"Bangalore,Kochi",IBM
+S089,Tara Patel,CSE,4,8.6,"Django,Python,PostgreSQL,REST API",IoT Development,"Gurgaon,Bangalore",TCS
+S090,Sara Rao,CSE,4,8.1,"Django,Python,PostgreSQL,REST API",Backend Development,"Bangalore,Pune",Amazon
+S091,Ira Rao,IT,4,7.2,"Python,Deep Learning,TensorFlow,Computer Vision",Frontend Development,"Hyderabad,Mumbai",IBM
+S092,Navya Pillai,ECE,4,9.1,"Django,Python,PostgreSQL,REST API",AI/ML,"Gurgaon,Kochi",Amazon
+S093,Ayaan Iyer,CSE,3,7.7,"React Native,JavaScript,Redux,API Integration",Data Analytics,"Kochi,Chennai",Google
+S094,Navya Desai,EEE,3,8.1,"Django,Python,PostgreSQL,REST API",Data Analytics,"Delhi,Kochi",Cognizant
+S095,Ayaan Kapoor,ECE,3,9.5,"HTML,CSS,JavaScript,UI/UX Design,Figma",Web Development,"Noida,Pune",Accenture
+S096,Aditya Verma,EEE,4,8.0,"Flutter,Dart,Firebase,REST API",Frontend Development,"Bangalore,Mumbai",Cognizant
+S097,Ahaan Verma,IT,4,7.2,"PHP,Laravel,MySQL,Web Development",Data Science,"Mumbai,Noida",Amazon
+S098,Arjun Malhotra,ECE,4,8.6,"Python,IoT,Embedded Systems,Arduino",IoT Development,"Hyderabad,Delhi",Cognizant
+S099,Ayaan Verma,EEE,3,8.5,"HTML,CSS,JavaScript,UI/UX Design,Figma",IoT Development,"Chennai,Pune",Microsoft
+S100,Aanya Singh,IT,4,7.4,"Angular,TypeScript,Node.js,MongoDB",Data Science,"Bangalore,Delhi",Google
